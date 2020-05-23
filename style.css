@@ -3,3 +3,19 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  color: red;
+}
+
+header {
+  align-items: center;
+  align-self: center;
+  align-content: center;
+}
+
+img{
+  align-items: center;
+  align-self: center;
+  align-content: center;
+}
