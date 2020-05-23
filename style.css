@@ -3,19 +3,37 @@ body {
   height: 100%;
   margin: 0;
 }
-
-h1 {
-  color: red;
+header{
+  text-align: center;
 }
 
-header {
-  align-items: center;
+
+nav a{
+  padding: 0 10px 0 10px;
+
+}
+#featured-property{
   align-self: center;
-  align-content: center;
+margin: auto;
+
 }
 
-img{
-  align-items: center;
-  align-self: center;
-  align-content: center;
+figcaption{
+  font-size: small;
+    text-align: center;
+
+}
+#featured-property p {
+width: 800px;
+margin:auto;
+}
+#details{
+  display: block;
+}
+#details div{
+  display: block;
+  float: left;
+  text-align: center;
+  width: 25%;
+  background: red;
 }
