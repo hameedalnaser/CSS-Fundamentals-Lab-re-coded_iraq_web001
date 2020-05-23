@@ -27,13 +27,13 @@ figcaption{
 width: 800px;
 margin:auto;
 }
-#details{
-  display: block;
-}
 #details div{
   display: block;
   float: left;
   text-align: center;
   width: 25%;
   background: red;
+}
+#details{
+  display: block;
 }
